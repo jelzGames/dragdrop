@@ -1,4 +1,4 @@
-# Visual Kanban Board React CSR
+# Visual Kanban Board React CSR 19
 
 # Description:
 A modern Kanban board application built with React (Client-Side Rendering) that allows users to visually manage tasks using a drag-and-drop interface. The board supports task creation, assignment, status updates, and inline editing — all designed with a clean, responsive UI using Material UI.
